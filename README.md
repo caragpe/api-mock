@@ -1,3 +1,6 @@
+# Pre-requesites
+1) Docker installed
+
 # Quick How to
 1) Clone this repo
 1) docker build --tag wiremock-testing .
